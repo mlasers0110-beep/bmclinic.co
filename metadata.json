@@ -1,0 +1,5 @@
+{
+  "name": "MySkinCode — Twój unikalny kod skóry",
+  "description": "MySkinCode — Twój unikalny kod skóry. Zaawansowana analiza skóry z systemem kodowania MSC-MATRIX.",
+  "requestFramePermissions": ["camera"]
+}
